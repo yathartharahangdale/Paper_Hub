@@ -1,2 +1,2 @@
-# Paper_Hub
+# Diploma Paper_Hub
 Question Papers
